@@ -1,5 +1,10 @@
 # Udacity React Nanodegree Project 3
-> Udacicards: A Mobile Flashcard App
+Project from [React Nanodegree at Udacity](https://www.udacity.com/course/react-nanodegree--nd019)<br>
+
+## Mobile Flashcards
+Simple mobile app to add and remove flashcards (questions and answers) and show it on mobile devices.<br>
+State manage with Redux.<br>
+Works on Android and iOS.
 
 ## Why this project?
 
